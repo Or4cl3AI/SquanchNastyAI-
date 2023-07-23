@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#0D0D0D</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="chat_background">#1E1E1E</color>
+    <color name="developer_background">#262626</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="button_color">#FF4081</color>
+</resources>
